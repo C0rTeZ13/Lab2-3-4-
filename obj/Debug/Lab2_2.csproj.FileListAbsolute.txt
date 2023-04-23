@@ -1,0 +1,7 @@
+C:\Install\МИЭТ\Семестр 4\АиСД\Лаб 2 (3, 4)\Лаб 2_4\Lab2_2\bin\Debug\Lab2_2.exe.config
+C:\Install\МИЭТ\Семестр 4\АиСД\Лаб 2 (3, 4)\Лаб 2_4\Lab2_2\bin\Debug\Lab2_2.exe
+C:\Install\МИЭТ\Семестр 4\АиСД\Лаб 2 (3, 4)\Лаб 2_4\Lab2_2\bin\Debug\Lab2_2.pdb
+C:\Install\МИЭТ\Семестр 4\АиСД\Лаб 2 (3, 4)\Лаб 2_4\Lab2_2\obj\Debug\Lab2_2.csproj.AssemblyReference.cache
+C:\Install\МИЭТ\Семестр 4\АиСД\Лаб 2 (3, 4)\Лаб 2_4\Lab2_2\obj\Debug\Lab2_2.csproj.CoreCompileInputs.cache
+C:\Install\МИЭТ\Семестр 4\АиСД\Лаб 2 (3, 4)\Лаб 2_4\Lab2_2\obj\Debug\Lab2_2.exe
+C:\Install\МИЭТ\Семестр 4\АиСД\Лаб 2 (3, 4)\Лаб 2_4\Lab2_2\obj\Debug\Lab2_2.pdb
